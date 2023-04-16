@@ -9,7 +9,10 @@
 - 💞️ I’m looking to collaborate on security cases solver
 - 📫 You can contact me through email - rumit.nagori2020@vitbhopal.ac.in
 - instagram :- @rude_rumit
-
+---
+<img src="Python-logo-notext.svg.png" title="PYTHON" alt="Python" width="40" height="40"/>&nbsp;
+Passionated  Wildlife Photographer and astronomical imaging.
+---
 
 
 <!---
