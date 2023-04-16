@@ -23,4 +23,5 @@ You can click the Preview link to take a look at your changes.
 ### 🛠 &nbsp;Languages and Tools :
 <p>
 <img src="Python-logo-notext.svg.png" title="PYTHON" alt="Python" width="40" height="40"/>&nbsp;
+ <img src ="png-clipart-logo-mysql-database-phpmyadmin-oracle-sql-logo-blue-text.png" title="My SQL" alt="My SQL" width="40" height="40"/>&nbsp;
 </p>
