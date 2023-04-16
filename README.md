@@ -2,13 +2,14 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="500"/>
 </div>
+
 - 👋 Hi, I’m @ruderumit
 - 👀 I’m interested in python
 - 🌱 I’m currently learning cyber security and digital forensic
 - 💞️ I’m looking to collaborate on security cases solver
 - 📫 You can contact me through email - rumit.nagori2020@vitbhopal.ac.in
 - instagram :- @rude_rumit
-### 🛠 &nbsp;Languages and Tools :
+
 
 
 <!---
@@ -19,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ruderumit1403&theme=blue-green)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ruderumit1403)
 
-
+### 🛠 &nbsp;Languages and Tools :
 <p>
 <img src="Python-logo-notext.svg.png" title="PYTHON" alt="Python" width="40" height="40"/>&nbsp;
 </p>
