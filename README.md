@@ -20,6 +20,8 @@ You can click the Preview link to take a look at your changes.
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ruderumit1403&theme=blue-green)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ruderumit1403)
 
+---
+
 ### 🛠 &nbsp;Languages and Tools :
 <p>
 <img src="Python-logo-notext.svg.png" title="PYTHON" alt="Python" width="40" height="40"/>&nbsp;
