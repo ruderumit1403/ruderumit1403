@@ -10,8 +10,9 @@
 - 📫 You can contact me through email - rumit.nagori2020@vitbhopal.ac.in
 - instagram :- @rude_rumit
 ---
-<img src="Python-logo-notext.svg.png" title="PYTHON" alt="Python" width="40" height="40"/>&nbsp;
+<img src="101171521-photo-camera-simple-icon-on-transparent-background.webp" title="CAMERA" alt="Camera" width="40" height="40"/>&nbsp;
 Passionated  Wildlife Photographer and astronomical imaging.
+
 ---
 
 
