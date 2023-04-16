@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ruderumit1403)
 
 ---
-![Leetcode Stats](https://leetcard.jacoblin.cool/shreyanshagrawal9393?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/ruderumit?ext=heatmap)
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
