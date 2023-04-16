@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on security cases solver
 - 📫 You can contact me through email - rumit.nagori2020@vitbhopal.ac.in
 - instagram :- @rude_rumit
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="100"/>
+</div>
 <!---
 ruderumit/ruderumit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
