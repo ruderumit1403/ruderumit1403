@@ -21,5 +21,5 @@ You can click the Preview link to take a look at your changes.
 
 
 <p>
-<img src="[https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPython_%2528programming_language%2529&psig=AOvVaw3Fw_0INFHMv5XLNB26uJ8L&ust=1681704931852000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCODnpYXFrf4CFQAAAAAdAAAAABAF)" title="PYTHON" alt="Python" width="40" height="40"/>&nbsp;
+<img src="Python-logo-notext.svg.png" title="PYTHON" alt="Python" width="40" height="40"/>&nbsp;
 </p>
