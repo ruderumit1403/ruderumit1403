@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="500"/>
 </div>
 
-- 👋 Hi, I’m @ruderumit
+- 👋 Hello, I’m @ruderumit
 - 👀 I’m interested in python
 - 🌱 I’m currently learning cyber security and digital forensic
 - 💞️ I’m looking to collaborate on security cases solver
