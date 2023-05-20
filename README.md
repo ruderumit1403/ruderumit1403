@@ -14,7 +14,9 @@
 Passionated  Wildlife Photographer and astronomical imaging.
 
 ---
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2BF75A&center=true&vCenter=true&width=435&lines=Be+like+terminal..,;Able+to+do+anything..,;But+under+the+limit..." alt="Typing SVG" /></a>
+</p>
 
 <!---
 ruderumit/ruderumit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
