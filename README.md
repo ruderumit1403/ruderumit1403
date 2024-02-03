@@ -24,14 +24,11 @@ You can click the Preview link to take a look at your changes.
 --->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ruderumit1403&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ruderumit1403&theme=blue-green)
-
-
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ruderumit1403)
 
 ---
-![Leetcode Stats](https://leetcard.jacoblin.cool/SquadCoder?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/rude_rumit?ext=heatmap)
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
