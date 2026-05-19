@@ -1,17 +1,26 @@
 <h1 align="center">Hi 👋, I'm Rumit Nagori</h1>
-<h3 align="center">Data Engineer @ IBM | Cloud & Cybersecurity Enthusiast | Blockchain Developer</h3>
+
+<h3 align="center">
+Data Engineer @ IBM • Cloud Engineer • Blockchain Developer • Cybersecurity Enthusiast
+</h3>
+
+<p align="center">
+Building scalable cloud solutions, secure data systems, and decentralized applications.
+</p>
+
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rumitnagori/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Rumit%20Nagori-blue?style=for-the-badge&logo=linkedin">
   </a>
-  
+
   <a href="https://github.com/ruderumit1403">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-ruderumit1403-black?style=for-the-badge&logo=github">
   </a>
 
   <a href="https://ruderumit1403.github.io/rumit-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome">
+    <img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge&logo=googlechrome">
   </a>
 </p>
 
@@ -19,126 +28,120 @@
 
 # 🚀 About Me
 
-💻 Data Engineer at IBM with hands-on experience in building scalable cloud-native data solutions.
+💻 Currently working as a **Data Engineer at IBM**, focusing on enterprise-scale cloud and data engineering solutions.
 
-☁️ Experienced in Azure, AWS, Databricks, Delta Lake, and ETL pipeline engineering.
+☁️ Experienced in building scalable ETL workflows, real-time monitoring systems, and cloud-native architectures using Azure, Databricks, and Python.
 
-🔐 Passionate about Cybersecurity, Blockchain Technology, and decentralized architectures.
+🔐 Strong interest in **Cybersecurity**, **Blockchain**, and secure distributed systems.
 
-📊 Built enterprise-grade monitoring systems for real-time pipeline observability in the airline & travel distribution sector.
+📊 Worked on production-grade airline data pipeline monitoring systems handling 100+ enterprise pipelines.
 
-⛓️ Developed blockchain-based vehicle compliance systems using Solidity Smart Contracts and Ethereum.
+⛓️ Built decentralized blockchain solutions using **Ethereum**, **Solidity**, and Smart Contracts for secure and tamper-proof data management.
 
-🌱 Constantly learning advanced Data Engineering, Cloud Security, and Distributed Systems.
+🌱 Continuously exploring:
+- Data Engineering
+- Cloud Architecture
+- Blockchain Security
+- Distributed Systems
+- DevOps & Automation
 
 ---
 
-# 🧠 Tech Stack
+# ⚡ Tech Stack
 
 ## ☁️ Cloud & Data Engineering
+
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes"/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes"/>
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Databricks-EA580C?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Delta%20Lake-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge"/>
-</p>
-
----
-
-## 👨‍💻 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,solidity,c,cpp"/>
+  <img src="https://img.shields.io/badge/Databricks-EA580C?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Delta%20Lake-0EA5E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🔐 Cybersecurity & Blockchain
+## 👨‍💻 Languages & Development
+
 <p>
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
-<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp"/>
+</p>
+
+---
+
+## ⛓️ Blockchain & Security
+
+<p>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge"/>
 </p>
 
 ---
 
 # 🏆 Certifications
 
-- Microsoft Azure Certified
-- AWS Cloud Certified
-- Databricks Certified Professional
-- IBM Machine Learning Certification
+✔ Microsoft Azure Certified  
+✔ AWS Cloud Certified  
+✔ Databricks Certified Professional  
+✔ IBM Machine Learning Certification  
 
 ---
 
-# 📌 Featured Projects
-
-## ✈️ Airline Data Pipeline Monitoring Dashboard
-
-### Tech Used:
-`Azure Data Factory` `Databricks` `Delta Lake` `Python` `Streamlit`
-
-- Built a real-time ETL monitoring dashboard for 100+ production pipelines.
-- Reduced operational monitoring effort and improved visibility.
-- Integrated automated failure tracking and pipeline health monitoring.
-- Implemented centralized analytics for airline & travel distribution workflows.
-
----
-
-## ⛓️ Blockchain-Based Vehicle Data Management System
-
-### Tech Used:
-`Ethereum` `Solidity` `Smart Contracts` `Blockchain`
-
-- Developed a decentralized platform for vehicle compliance and pollution tracking.
-- Built tamper-proof emission and service history management system.
-- Enabled secure and transparent vehicle data traceability.
-- Integrated blockchain security principles for immutable record management.
-
----
-
-# 📊 GitHub Stats
+# 🌐 Portfolio & Profiles
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ruderumit1403&show_icons=true&theme=tokyonight" />
-</p>
+  <a href="https://ruderumit1403.github.io/rumit-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome">
+  </a>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ruderumit1403&theme=tokyonight"/>
-</p>
+  <a href="https://www.linkedin.com/in/rumitnagori/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin">
+  </a>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruderumit1403&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/rumitnagori/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
-</a>
-
-<a href="https://github.com/ruderumit1403" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40" />
-</a>
-
-<a href="https://ruderumit1403.github.io/rumit-portfolio/" target="blank">
-<img align="center" src="https://img.icons8.com/fluency/48/domain.png" alt="portfolio" height="40" width="40" />
-</a>
+  <a href="https://github.com/ruderumit1403">
+    <img src="https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 ---
 
-# ⚡ Fun Fact
+# 🧠 Current Focus
 
-```python
-while(True):
-    learn()
-    build()
-    automate()
-    innovate()
+- Building scalable cloud-native ETL architectures
+- Learning advanced distributed systems
+- Exploring blockchain-based security solutions
+- Automating enterprise monitoring systems
+- Improving observability and data reliability
+
+---
+
+# 📈 Professional Interests
+
+```yaml
+Cloud Engineering:
+  - Azure
+  - AWS
+  - Databricks
+  - Delta Lake
+
+Data Engineering:
+  - ETL Pipelines
+  - Data Warehousing
+  - Real-Time Monitoring
+  - Stream Processing
+
+Cybersecurity:
+  - Secure Architectures
+  - Blockchain Security
+  - Cryptography
+  - Threat Analysis
+
+Development:
+  - Python
+  - Java
+  - Solidity
+  - Automation
