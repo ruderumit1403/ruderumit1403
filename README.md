@@ -1,38 +1,144 @@
+<h1 align="center">Hi 👋, I'm Rumit Nagori</h1>
+<h3 align="center">Data Engineer @ IBM | Cloud & Cybersecurity Enthusiast | Blockchain Developer</h3>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="500"/>
-</div>
-
-- 👋 Hello, I’m @ruderumit
-- 👀 I’m interested in python
-- 🌱 I’m currently learning cyber security and digital forensic
-- 💞️ I’m looking to collaborate on security cases solver
-- 📫 You can contact me through email - rumit.nagori2020@vitbhopal.ac.in
-- instagram :- @rude_rumit
----
-<img src="101171521-photo-camera-simple-icon-on-transparent-background.webp" title="CAMERA" alt="Camera" width="40" height="40"/>&nbsp;
-Passionated  Wildlife Photographer and astronomical imaging.
-
----
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2BF75A&center=true&vCenter=true&width=435&lines=Be+like+terminal..,;Able+to+do+anything..,;But+under+the+limit..." alt="Typing SVG" /></a>
+  <a href="https://www.linkedin.com/in/rumitnagori/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  
+  <a href="https://github.com/ruderumit1403">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+
+  <a href="https://ruderumit1403.github.io/rumit-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome">
+  </a>
 </p>
 
-<!---
-ruderumit/ruderumit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ruderumit1403&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=ruderumit1403)
-
----
-![Leetcode Stats](https://leetcard.jacoblin.cool/rude_rumit?ext=heatmap)
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+# 🚀 About Me
+
+💻 Data Engineer at IBM with hands-on experience in building scalable cloud-native data solutions.
+
+☁️ Experienced in Azure, AWS, Databricks, Delta Lake, and ETL pipeline engineering.
+
+🔐 Passionate about Cybersecurity, Blockchain Technology, and decentralized architectures.
+
+📊 Built enterprise-grade monitoring systems for real-time pipeline observability in the airline & travel distribution sector.
+
+⛓️ Developed blockchain-based vehicle compliance systems using Solidity Smart Contracts and Ethereum.
+
+🌱 Constantly learning advanced Data Engineering, Cloud Security, and Distributed Systems.
+
+---
+
+# 🧠 Tech Stack
+
+## ☁️ Cloud & Data Engineering
 <p>
-<img src="Python-logo-notext.svg.png" title="PYTHON" alt="Python" width="40" height="40"/>&nbsp;
- <img src ="png-clipart-logo-mysql-database-phpmyadmin-oracle-sql-logo-blue-text.png" title="My SQL" alt="My SQL" width="40" height="40"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes"/>
 </p>
+
+<p>
+<img src="https://img.shields.io/badge/Databricks-EA580C?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Delta%20Lake-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge"/>
+</p>
+
+---
+
+## 👨‍💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,solidity,c,cpp"/>
+</p>
+
+---
+
+## 🔐 Cybersecurity & Blockchain
+<p>
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge"/>
+</p>
+
+---
+
+# 🏆 Certifications
+
+- Microsoft Azure Certified
+- AWS Cloud Certified
+- Databricks Certified Professional
+- IBM Machine Learning Certification
+
+---
+
+# 📌 Featured Projects
+
+## ✈️ Airline Data Pipeline Monitoring Dashboard
+
+### Tech Used:
+`Azure Data Factory` `Databricks` `Delta Lake` `Python` `Streamlit`
+
+- Built a real-time ETL monitoring dashboard for 100+ production pipelines.
+- Reduced operational monitoring effort and improved visibility.
+- Integrated automated failure tracking and pipeline health monitoring.
+- Implemented centralized analytics for airline & travel distribution workflows.
+
+---
+
+## ⛓️ Blockchain-Based Vehicle Data Management System
+
+### Tech Used:
+`Ethereum` `Solidity` `Smart Contracts` `Blockchain`
+
+- Developed a decentralized platform for vehicle compliance and pollution tracking.
+- Built tamper-proof emission and service history management system.
+- Enabled secure and transparent vehicle data traceability.
+- Integrated blockchain security principles for immutable record management.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ruderumit1403&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ruderumit1403&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruderumit1403&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/rumitnagori/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
+</a>
+
+<a href="https://github.com/ruderumit1403" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40" />
+</a>
+
+<a href="https://ruderumit1403.github.io/rumit-portfolio/" target="blank">
+<img align="center" src="https://img.icons8.com/fluency/48/domain.png" alt="portfolio" height="40" width="40" />
+</a>
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+```python
+while(True):
+    learn()
+    build()
+    automate()
+    innovate()
